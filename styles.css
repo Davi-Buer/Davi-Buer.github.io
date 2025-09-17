@@ -11,7 +11,7 @@ body {
     flex-direction: column;
 }
 h1 {
-    color: #007bff;
+    color: #4b0000;
 }
 .dark-mode {
     background-color: #121212;
@@ -23,12 +23,12 @@ h1 {
 #dark-mode-toggle {
     padding: 10px 20px;
     border: none;
-    background-color: #007bff;
+    background-color: #8b0404;
     color: white;
     cursor: pointer;
     border-radius: 5px;
     margin-bottom: 20px;
 }
 .dark-mode #dark-mode-toggle {
-    background-color: #555;
+    background-color: #0084f0;
 }
